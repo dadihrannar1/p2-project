@@ -1,0 +1,4 @@
+Symlinking /home/ros/p2_ws/devel/share/manipulator_pkg/cmake/manipulator_pkgConfig-version.cmake
+Symlinking /home/ros/p2_ws/devel/share/manipulator_pkg/cmake/manipulator_pkgConfig.cmake
+Symlinking /home/ros/p2_ws/devel/lib/manipulator_pkg/GUI
+Symlinking /home/ros/p2_ws/devel/lib/pkgconfig/manipulator_pkg.pc

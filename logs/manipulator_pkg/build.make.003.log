@@ -1,0 +1,9 @@
+[35m[1mScanning dependencies of target manipulator_pkg_GUI[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/manipulator_pkg_GUI.dir/src/GUI.cpp.o[0m
+[01m[K/home/ros/p2_ws/src/manipulator_pkg/src/GUI.cpp:1:10:[m[K [01;31m[Kerror: [m[K#include expects "FILENAME" or <FILENAME>
+CMakeFiles/manipulator_pkg_GUI.dir/build.make:62: recipe for target 'CMakeFiles/manipulator_pkg_GUI.dir/src/GUI.cpp.o' failed
+make[2]: *** [CMakeFiles/manipulator_pkg_GUI.dir/src/GUI.cpp.o] Error 1
+CMakeFiles/Makefile2:387: recipe for target 'CMakeFiles/manipulator_pkg_GUI.dir/all' failed
+make[1]: *** [CMakeFiles/manipulator_pkg_GUI.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

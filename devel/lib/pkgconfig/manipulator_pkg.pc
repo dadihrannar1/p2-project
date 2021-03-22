@@ -1,0 +1,1 @@
+/home/ros/p2_ws/devel/.private/manipulator_pkg/lib/pkgconfig/manipulator_pkg.pc

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target manipulator_pkg_GUI[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/manipulator_pkg_GUI.dir/src/GUI.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ros/p2_ws/devel/.private/manipulator_pkg/lib/manipulator_pkg/GUI[0m
+[100%] Built target manipulator_pkg_GUI

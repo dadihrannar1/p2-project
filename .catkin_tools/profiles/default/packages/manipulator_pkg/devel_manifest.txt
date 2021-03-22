@@ -1,0 +1,6 @@
+manipulator_pkg
+/home/ros/p2_ws/devel/.private/manipulator_pkg/cmake.lock /home/ros/p2_ws/devel/./cmake.lock
+/home/ros/p2_ws/devel/.private/manipulator_pkg/share/manipulator_pkg/cmake/manipulator_pkgConfig-version.cmake /home/ros/p2_ws/devel/share/manipulator_pkg/cmake/manipulator_pkgConfig-version.cmake
+/home/ros/p2_ws/devel/.private/manipulator_pkg/share/manipulator_pkg/cmake/manipulator_pkgConfig.cmake /home/ros/p2_ws/devel/share/manipulator_pkg/cmake/manipulator_pkgConfig.cmake
+/home/ros/p2_ws/devel/.private/manipulator_pkg/lib/manipulator_pkg/GUI /home/ros/p2_ws/devel/lib/manipulator_pkg/GUI
+/home/ros/p2_ws/devel/.private/manipulator_pkg/lib/pkgconfig/manipulator_pkg.pc /home/ros/p2_ws/devel/lib/pkgconfig/manipulator_pkg.pc

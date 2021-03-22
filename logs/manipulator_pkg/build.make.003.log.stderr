@@ -1,0 +1,4 @@
+[01m[K/home/ros/p2_ws/src/manipulator_pkg/src/GUI.cpp:1:10:[m[K [01;31m[Kerror: [m[K#include expects "FILENAME" or <FILENAME>
+make[2]: *** [CMakeFiles/manipulator_pkg_GUI.dir/src/GUI.cpp.o] Error 1
+make[1]: *** [CMakeFiles/manipulator_pkg_GUI.dir/all] Error 2
+make: *** [all] Error 2

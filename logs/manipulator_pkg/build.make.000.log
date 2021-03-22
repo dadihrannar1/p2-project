@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target manipulator_pkg_GUI[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/manipulator_pkg_GUI.dir/src/GUI.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ros/p2_ws/devel/.private/manipulator_pkg/lib/manipulator_pkg/GUI[0m
+/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o: In function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+make[2]: *** [/home/ros/p2_ws/devel/.private/manipulator_pkg/lib/manipulator_pkg/GUI] Error 1
+make[1]: *** [CMakeFiles/manipulator_pkg_GUI.dir/all] Error 2
+make: *** [all] Error 2
+CMakeFiles/manipulator_pkg_GUI.dir/build.make:118: recipe for target '/home/ros/p2_ws/devel/.private/manipulator_pkg/lib/manipulator_pkg/GUI' failed
+CMakeFiles/Makefile2:387: recipe for target 'CMakeFiles/manipulator_pkg_GUI.dir/all' failed
+Makefile:138: recipe for target 'all' failed
